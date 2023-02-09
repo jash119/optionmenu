@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/lh"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="L-h" />
+    <item
+        android:title="L-v"
+        android:id="@+id/lv"/>
+    <item
+        android:title="G-h"
+        android:id="@+id/gh"/>
+    <item
+        android:title="G-v"
+        android:id="@+id/gv"/>
+    <item
+        android:title="S-h"
+        android:id="@+id/sh"/>
+    <item
+        android:title="S-v"
+        android:id="@+id/sv"/>
+
+</menu>
